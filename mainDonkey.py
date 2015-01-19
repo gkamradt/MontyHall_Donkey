@@ -52,4 +52,4 @@ def donkey(rounds, x, p):
 donkey(10000, True, False)
 donkey(10000, False, False)
 
-print time.time()-start
+print time.time()-start 
